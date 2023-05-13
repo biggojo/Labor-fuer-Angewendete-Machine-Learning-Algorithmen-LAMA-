@@ -1,2 +1,1 @@
-Wir haben bei unserer ersten Version eine Menge Fehler produziert deshalb 3 Versionen eine alte eine mit relu als Aktivierungsfunktion und eine mit tanh als Aktivierungsfunktion.
-Bei tanh sind noch ein paar zusätzliche Kommentare dabei.
+This the into the wild project. There are 2 versions, one with tanh and one relu for their respective activation function
