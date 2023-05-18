@@ -7,7 +7,8 @@ Evolutionäre Algorithmen, Neuronale Netze, Convolutional Neural Networks, Recur
 
 lama_ittw_NN ist der Ordner, der das endgültige Projekt und die Präsentation enthält.  
 In diesem Projekt wurde ein Netzt entwickelt welches den Ursprung der Kollision eines Teilchenbeschleuniger berechnet.   
-Der Ursprung wurde aus der Flugbahn der Reste von den Teilchen berechnet  
+Der Ursprung wurde aus der Flugbahn der Reste von den Teilchen berechnet. 
+Wir Erreichten eine Verbesserung von 50% im vergleich zum eingestztem Model im Belle-2 Experiment.
 
 # English
 
